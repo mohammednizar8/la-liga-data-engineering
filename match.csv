@@ -1,0 +1,381 @@
+match_id,match_date,stadium
+1,2024-08-15,San Mames
+2,2024-08-15,Benito Villamarin
+3,2024-08-16,Balaidos
+4,2024-08-16,Gran Canaria
+5,2024-08-17,El Sadar
+6,2024-08-17,Mestalla
+7,2024-08-18,Reale Arena
+8,2024-08-18,Son Moix
+9,2024-08-19,Jose Zorrilla
+10,2024-08-19,Estadio de la Ceramica
+11,2024-08-23,Balaidos
+12,2024-08-23,Ramon Sanchez Pizjuan
+13,2024-08-24,El Sadar
+14,2024-08-24,Estadi Olimpic Lluis Companys
+15,2024-08-24,RCDE Stadium
+16,2024-08-24,Coliseum
+17,2024-08-25,Santiago Bernabeu
+18,2024-08-25,Butarque
+19,2024-08-25,Mendizorrotza
+20,2024-08-25,Riyadh Air Metropolitano
+21,2024-08-26,Estadio de la Ceramica
+22,2024-08-27,Son Moix
+23,2024-08-27,Vallecas
+24,2024-08-28,San Mames
+25,2024-08-28,Jose Zorrilla
+26,2024-08-28,Riyadh Air Metropolitano
+27,2024-08-28,Reale Arena
+28,2024-08-29,Montilivi
+29,2024-08-29,Gran Canaria
+30,2024-08-31,Estadi Olimpic Lluis Companys
+31,2024-08-31,San Mames
+32,2024-08-31,RCDE Stadium
+33,2024-08-31,Butarque
+34,2024-08-31,Mestalla
+35,2024-09-01,Mendizorrotza
+36,2024-09-01,El Sadar
+37,2024-09-01,Ramon Sanchez Pizjuan
+38,2024-09-01,Coliseum
+39,2024-09-01,Santiago Bernabeu
+40,2024-09-13,Benito Villamarin
+41,2024-09-14,Son Moix
+42,2024-09-14,RCDE Stadium
+43,2024-09-14,Ramon Sanchez Pizjuan
+44,2024-09-14,Reale Arena
+45,2024-09-15,Balaidos
+46,2024-09-15,Montilivi
+47,2024-09-15,Gran Canaria
+48,2024-09-15,Riyadh Air Metropolitano
+49,2024-09-16,Vallecas
+50,2024-09-17,Son Moix
+51,2024-09-18,Benito Villamarin
+52,2024-09-19,Butarque
+53,2024-09-20,Mendizorrotza
+54,2024-09-21,Jose Zorrilla
+55,2024-09-21,El Sadar
+56,2024-09-21,Mestalla
+57,2024-09-21,Santiago Bernabeu
+58,2024-09-22,Coliseum
+59,2024-09-22,San Mames
+60,2024-09-22,Estadio de la Ceramica
+61,2024-09-22,Vallecas
+62,2024-09-23,Benito Villamarin
+63,2024-09-24,Ramon Sanchez Pizjuan
+64,2024-09-24,Mestalla
+65,2024-09-24,Santiago Bernabeu
+66,2024-09-25,Montilivi
+67,2024-09-25,Estadi Olimpic Lluis Companys
+68,2024-09-26,RCDE Stadium
+69,2024-09-26,Gran Canaria
+70,2024-09-27,Balaidos
+71,2024-09-27,Jose Zorrilla
+72,2024-09-28,Coliseum
+73,2024-09-28,Vallecas
+74,2024-09-28,Reale Arena
+75,2024-09-28,El Sadar
+76,2024-09-29,Balaidos
+77,2024-09-29,San Mames
+78,2024-09-29,Benito Villamarin
+79,2024-09-29,Riyadh Air Metropolitano
+80,2024-09-30,Estadio de la Ceramica
+81,2024-10-04,Butarque
+82,2024-10-05,RCDE Stadium
+83,2024-10-05,Coliseum
+84,2024-10-05,Gran Canaria
+85,2024-10-05,Jose Zorrilla
+86,2024-10-05,Santiago Bernabeu
+87,2024-10-06,Montilivi
+88,2024-10-06,Mendizorrotza
+89,2024-10-06,Ramon Sanchez Pizjuan
+90,2024-10-06,Reale Arena
+91,2024-10-18,Mendizorrotza
+92,2024-10-19,San Mames
+93,2024-10-19,El Sadar
+94,2024-10-19,Montilivi
+95,2024-10-19,Balaidos
+96,2024-10-20,Son Moix
+97,2024-10-20,Riyadh Air Metropolitano
+98,2024-10-20,Estadio de la Ceramica
+99,2024-10-20,Estadi Olimpic Lluis Companys
+100,2024-10-21,Mestalla
+101,2024-10-25,RCDE Stadium
+102,2024-10-26,Jose Zorrilla
+103,2024-10-26,Vallecas
+104,2024-10-26,Gran Canaria
+105,2024-10-26,Santiago Bernabeu
+106,2024-10-27,Butarque
+107,2024-10-27,Coliseum
+108,2024-10-27,Benito Villamarin
+109,2024-10-27,Reale Arena
+110,2024-10-28,Son Moix
+111,2024-11-01,Mendizorrotza
+112,2024-11-02,El Sadar
+113,2024-11-02,Montilivi
+114,2024-11-03,Riyadh Air Metropolitano
+115,2024-11-03,Estadi Olimpic Lluis Companys
+116,2024-11-03,Ramon Sanchez Pizjuan
+117,2024-11-03,San Mames
+118,2024-11-04,Balaidos
+119,2024-11-08,Vallecas
+120,2024-11-09,Santiago Bernabeu
+121,2024-11-09,Estadio de la Ceramica
+122,2024-11-09,Butarque
+123,2024-11-10,Benito Villamarin
+124,2024-11-10,Son Moix
+125,2024-11-10,Coliseum
+126,2024-11-10,Jose Zorrilla
+127,2024-11-10,Reale Arena
+128,2024-11-22,Coliseum
+129,2024-11-23,Mestalla
+130,2024-11-23,Riyadh Air Metropolitano
+131,2024-11-23,Montilivi
+132,2024-11-23,Gran Canaria
+133,2024-11-23,Balaidos
+134,2024-11-24,El Sadar
+135,2024-11-24,Ramon Sanchez Pizjuan
+136,2024-11-24,Butarque
+137,2024-11-24,San Mames
+138,2024-11-29,Son Moix
+139,2024-11-30,Estadi Olimpic Lluis Companys
+140,2024-11-30,Mendizorrotza
+141,2024-11-30,RCDE Stadium
+142,2024-11-30,Jose Zorrilla
+143,2024-12-01,Estadio de la Ceramica
+144,2024-12-01,Santiago Bernabeu
+145,2024-12-01,Vallecas
+146,2024-12-01,Reale Arena
+147,2024-12-02,Ramon Sanchez Pizjuan
+148,2024-12-03,Son Moix
+149,2024-12-04,San Mames
+150,2024-12-06,Balaidos
+151,2024-12-07,Gran Canaria
+152,2024-12-07,Benito Villamarin
+153,2024-12-07,Mestalla
+154,2024-12-07,Montilivi
+155,2024-12-08,Butarque
+156,2024-12-08,San Mames
+157,2024-12-08,El Sadar
+158,2024-12-08,Riyadh Air Metropolitano
+159,2024-12-09,Coliseum
+160,2024-12-13,Jose Zorrilla
+161,2024-12-14,RCDE Stadium
+162,2024-12-14,Son Moix
+163,2024-12-14,Ramon Sanchez Pizjuan
+164,2024-12-14,Vallecas
+165,2024-12-15,Riyadh Air Metropolitano
+166,2024-12-15,Mendizorrotza
+167,2024-12-15,Reale Arena
+168,2024-12-15,Estadio de la Ceramica
+169,2024-12-15,Estadi Olimpic Lluis Companys
+170,2024-12-18,RCDE Stadium
+171,2024-12-18,Estadio de la Ceramica
+172,2024-12-20,Montilivi
+173,2024-12-21,Coliseum
+174,2024-12-21,Balaidos
+175,2024-12-21,El Sadar
+176,2024-12-21,Estadi Olimpic Lluis Companys
+177,2024-12-22,Mestalla
+178,2024-12-22,Santiago Bernabeu
+179,2024-12-22,Gran Canaria
+180,2024-12-22,Butarque
+181,2024-12-22,Benito Villamarin
+182,2025-01-03,Mestalla
+183,2025-01-10,Vallecas
+184,2025-01-11,Mendizorrotza
+185,2025-01-11,Jose Zorrilla
+186,2025-01-11,RCDE Stadium
+187,2025-01-11,Ramon Sanchez Pizjuan
+188,2025-01-12,Gran Canaria
+189,2025-01-12,Riyadh Air Metropolitano
+190,2025-01-13,Reale Arena
+191,2025-01-17,RCDE Stadium
+192,2025-01-18,Montilivi
+193,2025-01-18,Butarque
+194,2025-01-18,Benito Villamarin
+195,2025-01-18,Coliseum
+196,2025-01-19,Balaidos
+197,2025-01-19,Santiago Bernabeu
+198,2025-01-19,El Sadar
+199,2025-01-19,Mestalla
+200,2025-01-20,Estadio de la Ceramica
+201,2025-01-24,Gran Canaria
+202,2025-01-25,Son Moix
+203,2025-01-25,Riyadh Air Metropolitano
+204,2025-01-25,Ramon Sanchez Pizjuan
+205,2025-01-25,Jose Zorrilla
+206,2025-01-26,Vallecas
+207,2025-01-26,Reale Arena
+208,2025-01-26,San Mames
+209,2025-01-26,Estadi Olimpic Lluis Companys
+210,2025-01-27,Mendizorrotza
+211,2025-01-31,Butarque
+212,2025-02-01,Coliseum
+213,2025-02-01,Estadio de la Ceramica
+214,2025-02-01,Riyadh Air Metropolitano
+215,2025-02-01,RCDE Stadium
+216,2025-02-02,Estadi Olimpic Lluis Companys
+217,2025-02-02,Mestalla
+218,2025-02-02,El Sadar
+219,2025-02-02,Benito Villamarin
+220,2025-02-03,Montilivi
+221,2025-02-07,Vallecas
+222,2025-02-08,Balaidos
+223,2025-02-08,San Mames
+224,2025-02-08,Gran Canaria
+225,2025-02-08,Santiago Bernabeu
+226,2025-02-09,Mendizorrotza
+227,2025-02-09,Mestalla
+228,2025-02-09,Reale Arena
+229,2025-02-09,Ramon Sanchez Pizjuan
+230,2025-02-10,Son Moix
+231,2025-02-14,Montilivi
+232,2025-02-15,Butarque
+233,2025-02-15,El Sadar
+234,2025-02-15,Riyadh Air Metropolitano
+235,2025-02-15,Estadio de la Ceramica
+236,2025-02-16,RCDE Stadium
+237,2025-02-16,Jose Zorrilla
+238,2025-02-16,Son Moix
+239,2025-02-16,Benito Villamarin
+240,2025-02-17,Estadi Olimpic Lluis Companys
+241,2025-02-21,Balaidos
+242,2025-02-22,Mendizorrotza
+243,2025-02-22,Vallecas
+244,2025-02-22,Mestalla
+245,2025-02-22,Gran Canaria
+246,2025-02-23,San Mames
+247,2025-02-23,Santiago Bernabeu
+248,2025-02-23,Coliseum
+249,2025-02-23,Reale Arena
+250,2025-02-24,Ramon Sanchez Pizjuan
+251,2025-02-28,Jose Zorrilla
+252,2025-03-01,Montilivi
+253,2025-03-01,Vallecas
+254,2025-03-01,Benito Villamarin
+255,2025-03-01,Riyadh Air Metropolitano
+256,2025-03-02,Butarque
+257,2025-03-02,Estadi Olimpic Lluis Companys
+258,2025-03-02,Son Moix
+259,2025-03-02,El Sadar
+260,2025-03-08,Balaidos
+261,2025-03-08,Mendizorrotza
+262,2025-03-08,Mestalla
+263,2025-03-09,Coliseum
+264,2025-03-09,Santiago Bernabeu
+265,2025-03-09,San Mames
+266,2025-03-09,Benito Villamarin
+267,2025-03-09,Reale Arena
+268,2025-03-10,RCDE Stadium
+269,2025-03-14,Gran Canaria
+270,2025-03-15,Jose Zorrilla
+271,2025-03-15,Son Moix
+272,2025-03-15,Estadio de la Ceramica
+273,2025-03-15,Montilivi
+274,2025-03-16,Butarque
+275,2025-03-16,Ramon Sanchez Pizjuan
+276,2025-03-16,El Sadar
+277,2025-03-16,Vallecas
+278,2025-03-16,Riyadh Air Metropolitano
+279,2025-03-27,Estadi Olimpic Lluis Companys
+280,2025-03-29,Reale Arena
+281,2025-03-29,RCDE Stadium
+282,2025-03-29,Mendizorrotza
+283,2025-03-29,Santiago Bernabeu
+284,2025-03-30,Coliseum
+285,2025-03-30,Estadi Olimpic Lluis Companys
+286,2025-03-30,San Mames
+287,2025-03-30,Mestalla
+288,2025-03-30,Benito Villamarin
+289,2025-03-31,Balaidos
+290,2025-04-04,Vallecas
+291,2025-04-05,Montilivi
+292,2025-04-05,Santiago Bernabeu
+293,2025-04-05,Son Moix
+294,2025-04-05,Estadi Olimpic Lluis Companys
+295,2025-04-06,Gran Canaria
+296,2025-04-06,Ramon Sanchez Pizjuan
+297,2025-04-06,Jose Zorrilla
+298,2025-04-06,Estadio de la Ceramica
+299,2025-04-07,Butarque
+300,2025-04-11,Mestalla
+301,2025-04-12,Reale Arena
+302,2025-04-12,Coliseum
+303,2025-04-12,Balaidos
+304,2025-04-12,Butarque
+305,2025-04-13,El Sadar
+306,2025-04-13,Mendizorrotza
+307,2025-04-13,Benito Villamarin
+308,2025-04-13,San Mames
+309,2025-04-14,Riyadh Air Metropolitano
+310,2025-04-18,RCDE Stadium
+311,2025-04-19,Vallecas
+312,2025-04-19,Estadi Olimpic Lluis Companys
+313,2025-04-19,Son Moix
+314,2025-04-19,Gran Canaria
+315,2025-04-20,Jose Zorrilla
+316,2025-04-20,Estadio de la Ceramica
+317,2025-04-20,Ramon Sanchez Pizjuan
+318,2025-04-20,Santiago Bernabeu
+319,2025-04-21,Montilivi
+320,2025-04-22,Mestalla
+321,2025-04-22,Estadi Olimpic Lluis Companys
+322,2025-04-23,San Mames
+323,2025-04-23,Balaidos
+324,2025-04-23,Mendizorrotza
+325,2025-04-23,Coliseum
+326,2025-04-24,Butarque
+327,2025-04-24,El Sadar
+328,2025-04-24,Riyadh Air Metropolitano
+329,2025-04-24,Benito Villamarin
+330,2025-04-27,Estadio de la Ceramica
+331,2025-05-02,Vallecas
+332,2025-05-03,Mendizorrotza
+333,2025-05-03,Estadio de la Ceramica
+334,2025-05-03,Gran Canaria
+335,2025-05-03,Jose Zorrilla
+336,2025-05-04,Santiago Bernabeu
+337,2025-05-04,Ramon Sanchez Pizjuan
+338,2025-05-04,RCDE Stadium
+339,2025-05-04,Reale Arena
+340,2025-05-05,Montilivi
+341,2025-05-09,Gran Canaria
+342,2025-05-10,Mestalla
+343,2025-05-10,Balaidos
+344,2025-05-10,Montilivi
+345,2025-05-10,Son Moix
+346,2025-05-10,Riyadh Air Metropolitano
+347,2025-05-11,Butarque
+348,2025-05-11,Estadi Olimpic Lluis Companys
+349,2025-05-11,San Mames
+350,2025-05-11,Benito Villamarin
+351,2025-05-13,Jose Zorrilla
+352,2025-05-13,Reale Arena
+353,2025-05-13,Ramon Sanchez Pizjuan
+354,2025-05-14,Mendizorrotza
+355,2025-05-14,Estadio de la Ceramica
+356,2025-05-14,Santiago Bernabeu
+357,2025-05-15,Vallecas
+358,2025-05-15,El Sadar
+359,2025-05-15,RCDE Stadium
+360,2025-05-15,Coliseum
+361,2025-05-18,Riyadh Air Metropolitano
+362,2025-05-18,Estadi Olimpic Lluis Companys
+363,2025-05-18,Balaidos
+364,2025-05-18,Gran Canaria
+365,2025-05-18,Son Moix
+366,2025-05-18,El Sadar
+367,2025-05-18,Ramon Sanchez Pizjuan
+368,2025-05-18,Reale Arena
+369,2025-05-18,Mestalla
+370,2025-05-18,Jose Zorrilla
+371,2025-05-23,Benito Villamarin
+372,2025-05-24,Santiago Bernabeu
+373,2025-05-24,RCDE Stadium
+374,2025-05-24,Butarque
+375,2025-05-24,Mendizorrotza
+376,2025-05-24,Coliseum
+377,2025-05-24,Vallecas
+378,2025-05-25,Montilivi
+379,2025-05-25,Estadio de la Ceramica
+380,2025-05-25,San Mames

@@ -1,0 +1,151 @@
+FanID,FanName,City,Club_id
+1,Laura Sánchez,Madrid,15
+2,Carlos Torres,Seville,14
+3,Ana Pérez,Barcelona,4
+4,Diego Romero,Vitoria-Gasteiz,1
+5,Lucas Martín,Bilbao,2
+6,Noa Jiménez,Madrid,3
+7,Adrián Castillo,Girona,8
+8,Sergio Navarro,Valencia,18
+9,Daniel Ortiz,Valladolid,20
+10,Clara Gómez,Seville,17
+11,Raúl Domínguez,Pamplona,12
+12,Hugo López,Madrid,13
+13,Marina Rivas,Cornellà de Llobregat,6
+14,Leo Hernández,Leganés,10
+15,Iker Díaz,Las Palmas,9
+16,Mateo Aguado,San Sebastián,16
+17,Paula Rubio,Palma de Mallorca,11
+18,Julia Cano,Getafe,7
+19,Marc Benítez,Zaragoza,4
+20,Elena Molina,Logroño,12
+21,David Ferrer,Alicante,18
+22,Mario Castaño,Madrid,15
+23,Iván Serrano,Seville,17
+24,Óscar Nieto,Madrid,3
+25,Santiago Vega,Barcelona,4
+26,Jorge Pardo,Burgos,2
+27,Marco Esteban,Girona,8
+28,Samuel Jurado,Toledo,15
+29,Rafael Montes,Pamplona,12
+30,Joel Prieto,Valladolid,20
+31,Álvaro Roldán,Málaga,10
+32,Eric Vargas,Bilbao,2
+33,Daniel Cordero,Murcia,7
+34,Bruno Soler,Barcelona,4
+35,Thiago Requena,Valencia,18
+36,Jan Aguirre,Vitoria-Gasteiz,1
+37,Nicolás Landa,San Sebastián,16
+38,Adrián Peña,Madrid,13
+39,Leo Marín,Alicante,14
+40,Pedro Santamaría,Seville,17
+41,Claudia Navarro,Barcelona,6
+42,Luna Torres,Girona,8
+43,María Ros,Madrid,3
+44,Lucía Serrat,Cornellà de Llobregat,6
+45,Inés Cobo,Las Palmas,9
+46,Sara Lafuente,Valencia,18
+47,Laia Soler,Barcelona,4
+48,Ona Puig,Madrid,13
+49,Aina Alarcón,Murcia,11
+50,Carmen Pastor,Seville,14
+51,Irina Beltrán,Pamplona,12
+52,Marina Baena,Madrid,15
+53,Aitana Mora,Girona,8
+54,Irene Feliu,Bilbao,2
+55,Clara Andreu,Barcelona,4
+56,Paula Rovira,Valencia,18
+57,Julia Fonseca,Toledo,10
+58,Alba Pardo,Vitoria-Gasteiz,1
+59,Celia Roig,Barcelona,4
+60,Marta Solano,San Sebastián,16
+61,Luca Redondo,Madrid,3
+62,Eric Herrera,Las Palmas,9
+63,Carlos Tejada,Seville,17
+64,Iván Correa,Madrid,15
+65,Héctor Lanza,Cornellà de Llobregat,6
+66,Marcos Ferrer,Pamplona,12
+67,Denis Blanco,Valencia,18
+68,Ruy Vidal,Barcelona,4
+69,Pol Gallego,Girona,8
+70,Joan Mestre,Palma de Mallorca,11
+71,Roger Doménech,Seville,14
+72,Albert Pons,Bilbao,2
+73,Didac Batlle,Valladolid,20
+74,Arnau Prats,Toledo,10
+75,Maxim Riera,Valencia,18
+76,Jan Casals,Zaragoza,3
+77,Jordi Camp,Madrid,15
+78,Ferran Anglada,San Sebastián,16
+79,Izan Bosch,Las Palmas,9
+80,Hugo Blay,Murcia,7
+81,Biel Capdevila,Barcelona,6
+82,Ona Figueras,Girona,8
+83,Jana Rovira,Vitoria-Gasteiz,1
+84,Gala Almirall,Barcelona,4
+85,Bruna Serra,Valencia,18
+86,Elia Casado,Seville,17
+87,Naia Costa,Madrid,13
+88,Irati Arriola,Pamplona,12
+89,June Lertxundi,Girona,8
+90,Haizea Urrutia,Bilbao,2
+91,Ane Laborda,San Sebastián,16
+92,Nahia Zuloaga,Valladolid,20
+93,Lorea Mendizábal,Vigo,5
+94,Amets Aranburu,Zaragoza,3
+95,Aritz Etxeberria,Vitoria-Gasteiz,1
+96,Unai Olabarria,Seville,14
+97,Ibai Goñi,Pamplona,12
+98,Jon Aramburu,Madrid,15
+99,Ekain Alberdi,Las Palmas,9
+100,Gorka Bikuña,Bilbao,2
+101,Hodei Lazkano,Seville,17
+102,Markel Lasa,Girona,8
+103,Antón Souto,A Coruña,5
+104,Iago Piñeiro,Vigo,5
+105,Xoel Meilán,Santiago de Compostela,5
+106,Brais Cao,Lugo,5
+107,Lois Cid,Ourense,5
+108,Anxo Sampedro,Valencia,18
+109,Leo Hernández,Madrid,15
+110,Victor Marquina,Leganés,10
+111,Cristian Sáez,Seville,17
+112,Andrés Redondo,Valencia,18
+113,Felipe Montes,Málaga,5
+114,Adrián Lara,Alicante,18
+115,Joel Barrios,Barcelona,4
+116,Álex Campillo,Toledo,10
+117,Raúl Menéndez,Vitoria-Gasteiz,1
+118,Óscar Luengo,Pamplona,12
+119,Enzo Pardal,Madrid,13
+120,Lucas Mendieta,Las Palmas,9
+121,Denís Arias,Valladolid,20
+122,Marcelo Tejada,Seville,17
+123,Matías Rivero,Madrid,15
+124,Francisco Pires,Girona,8
+125,Tomás Silva,Barcelona,4
+126,Renato Duarte,Valencia,18
+127,Tiago Fonseca,Seville,14
+128,André Carvalho,Vigo,5
+129,Pedro Mota,Seville,17
+130,Diogo Freitas,Madrid,3
+131,Bruno Almeida,Pamplona,12
+132,Filipe Rocha,Madrid,13
+133,Adriano Faria,San Sebastián,16
+134,Gustavo Reis,Valladolid,20
+135,Rafael Costa,Bilbao,2
+136,Hugo Silva,Barcelona,6
+137,Tiago Santos,Seville,17
+138,Paulo Lima,Leganés,10
+139,Caio Paredes,Madrid,15
+140,Luiz Moreira,Zaragoza,3
+141,Dante Ramos,Valencia,18
+142,Igor Ferreira,Girona,8
+143,Fernando Alves,Las Palmas,9
+144,Daniel Farias,Bilbao,2
+145,Jonatan Barros,Murcia,7
+146,Victor Hugo Simões,Barcelona,4
+147,Arthur Paiva,Seville,14
+148,Erick Couto,Seville,17
+149,Pedro Azevedo,Vigo,5
+150,Renan Teixeira,Pamplona,12

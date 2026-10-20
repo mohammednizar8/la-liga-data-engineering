@@ -1,0 +1,602 @@
+PlayerID,Name,Club_id,Age,Nationality,Position
+1,Max Aarons,18,24,England,DF
+2,Rodrigo Abajas,18,21,Spain,DF
+3,Abel,12,23,Spain,DF
+4,Nabil Aberdin,7,21,France,MF
+5,Abdel Abqar,1,25,Morocco,DF
+6,Akor Adams,17,24,Nigeria,FW
+7,Adrián,14,37,Spain,GK
+8,Julen Agirrezabala,2,23,Spain,GK
+9,Lucien Agoume,17,22,France,MF
+10,Álvaro Aguado,6,28,Spain,MF
+11,Lorenzo Aguado,15,21,Spain,DF
+12,Nayef Aguerd,16,28,Morocco,DF
+13,Joseph Aidoo,20,28,Ghana,DF
+14,Joseph Aidoo,5,28,Ghana,DF
+15,Ilias Akhomach,19,20,Morocco,MF
+16,David Alaba,15,32,Austria,DF
+17,Ibrahim Alani,20,18,Nigeria,MF
+18,Raúl Albiol,19,38,Spain,DF
+19,Omar Alderete,7,27,Paraguay,DF
+20,Carles Aleñá,7,26,Spain,MF
+21,Carles Aleñá,1,26,Spain,MF
+22,Alfon,5,25,Spain,FW
+23,Tadeo Allende,5,25,Argentina,FW
+24,Domingos André Ribeiro Almeida,18,24,Portugal,MF
+25,Iker Almena,8,20,Spain,FW
+26,Marcos Alonso,5,33,Spain,DF
+27,Adrià Altimira,10,23,Spain,DF
+28,Sergi Altimira,14,22,Spain,MF
+29,Hugo Álvarez,5,21,Spain,MF
+30,Julián Álvarez,3,24,Argentina,FW
+31,Yeray Álvarez,2,29,Spain,DF
+32,Selim Amallah,20,27,Morocco,MF
+33,Amath,20,28,Senegal,FW
+34,Marcos André,20,27,Brazil,FW
+35,Leandro Antonetti,17,21,PUR,FW
+36,Antoniu,6,21,Spain,FW
+37,Antony,14,24,Brazil,FW
+38,Anuar,20,29,Morocco,MF
+39,Aritz Arambarri,10,26,Spain,DF
+40,Mauro Arambarri,7,28,Uruguay,MF
+41,Jon Aramburu,16,22,Venezuela,DF
+42,Ronald Araújo,4,25,Uruguay,DF
+43,Adu Ares,2,22,Spain,FW
+44,Jesús Areso,12,25,Spain,DF
+45,David Argüelles,7,22,Spain,MF
+46,José Arnaiz,12,29,Spain,FW
+47,Sergio Arribas,14,21,Spain,DF
+48,Takuma Asano,11,29,Japan,FW
+49,Raúl Asencio,15,21,Spain,DF
+50,Iago Aspas,5,36,Spain,FW
+51,Yaser Asprilla,8,20,Colombia,FW
+52,Ezequiel Ávila,14,30,Argentina,FW
+53,Adam Aznou,20,18,Morocco,DF
+54,César Azpilicueta,3,34,Spain,DF
+55,Papa Ba,8,19,Spain,MF
+56,Loïc Bade,17,24,France,DF
+57,Alex Baena,19,23,Spain,MF
+58,Juma Bah,20,18,SLE,DF
+59,Eric Bailly,19,30,Ivory Coast,DF
+60,Stefan Bajcetic,9,19,Spain,MF
+61,Cédric Bakambu,14,33,DR Congo,FW
+62,Alejandro Balde,4,20,Spain,DF
+63,Iván Balliu,13,32,Albania,DF
+64,Jonathan Bamba,5,28,Ivory Coast,FW
+65,Adrian Baquerin,20,17,Spain,FW
+66,Valentín Barco,17,20,Argentina,DF
+67,Borna Barišić,10,31,Croatia,DF
+68,Kike Barja,12,27,Spain,FW
+69,Enzo Barrenechea,18,23,Argentina,MF
+70,Ander Barrenetxea,16,22,Spain,MF
+71,Pablo Barrios,3,21,Spain,MF
+72,Thierno Barry,19,21,France,FW
+73,Marc Bartra,14,33,Spain,DF
+74,Aboubacar Bassinga,9,19,Ivory Coast,MF
+75,Augusto Batalla,13,28,Argentina,GK
+76,Rafael Bauza,6,19,Spain,MF
+77,Sheraldo Becker,16,29,Suriname,FW
+78,Donny van de Beek,8,27,Netherlands,MF
+79,Luken Beitia,16,20,Spain,DF
+80,Ismael Bekhoucha,7,19,Morocco,MF
+81,Héctor Bellerín,14,29,Spain,DF
+82,Jude Bellingham,15,21,England,MF
+83,Fran Beltrán,5,25,Spain,MF
+84,Carlos Benavídez,1,26,Uruguay,MF
+85,Iker Benito,12,21,Spain,FW
+86,Yuri Berchiche,2,34,Spain,DF
+87,Álex Berenguer,2,29,Spain,FW
+88,Marc Bernal,4,17,Spain,MF
+89,Juan Bernat,19,31,Spain,DF
+90,Juan Bernat,7,31,Spain,DF
+91,Juan Berrocal,7,25,Spain,DF
+92,Antonio Blanco,1,24,Spain,MF
+93,Daley Blind,8,34,Netherlands,DF
+94,Adama Boiro,2,22,Spain,DF
+95,Enzo Boyomo,12,22,Cameroon,DF
+96,Enzo Boyomo,20,22,Cameroon,DF
+97,Darko Brašanac,10,32,Serbia,MF
+98,Tajon Buchanan,19,25,Canada,MF
+99,Ante Budimir,12,33,Croatia,FW
+100,Manu Bueno,17,20,Spain,MF
+101,Endika Buján,2,21,Spain,FW
+102,Pau Cabanes,19,19,Spain,MF
+103,Pau Cabanes,1,19,Spain,MF
+104,Leandro Cabrera,6,33,Uruguay,DF
+105,Fernando Calero,6,28,Spain,DF
+106,Eduardo Camavinga,15,21,France,MF
+107,Sergio Camello,13,23,Spain,FW
+108,José Campaña,9,31,Spain,MF
+109,Peio Canales,2,19,Spain,MF
+110,Antonio Candela,20,24,Italy,DF
+111,Sergi Canós,18,27,Spain,MF
+112,Dani Cárdenas,13,27,Spain,GK
+113,Irvin Cardona,6,26,France,FW
+114,Marc Cardona,9,29,Spain,FW
+115,Sergi Cardona,19,25,Spain,DF
+116,Johnny Cardoso,14,22,United States,MF
+117,José Carlos González,9,18,Spain,DF
+118,Carmona,17,22,Spain,DF
+119,Sergio Carreira,5,23,Spain,MF
+120,Dani Carvajal,15,32,Spain,DF
+121,William Carvalho,14,32,Portugal,MF
+122,Marc Casado,4,20,Spain,MF
+123,Catena,12,29,Spain,DF
+124,Maximiliano Caufriez,18,27,Belgium,DF
+125,Dani Ceballos,15,27,Spain,MF
+126,Franco Cervi,5,30,Argentina,FW
+127,Raúl Chasco,20,20,Spain,DF
+128,Pep Chavarría,13,26,Spain,DF
+129,Walid Cheddira,6,26,Morocco,FW
+130,Chema,15,19,Spain,MF
+131,Julián Chicco,10,26,Argentina,MF
+132,Chiquinho,11,24,Portugal,MF
+133,Andreas Christensen,4,28,Denmark,DF
+134,Jasper Cillessen,9,35,Netherlands,GK
+135,Pathé Ciss,13,30,Senegal,MF
+136,Seydouba Cissé,10,23,Guinea,MF
+137,Silvi Clúa,8,19,Spain,MF
+138,Eray Cömert,20,26,Switzerland,DF
+139,Santi Comesaña,19,27,Spain,MF
+140,Diego Conde,19,25,Spain,GK
+141,Tomás Conechny,1,26,Argentina,FW
+142,Copete,11,24,Spain,DF
+143,Iker Córdoba,18,18,Spain,DF
+144,Ángel Correa,3,29,Argentina,FW
+145,Thierry Correia,18,25,Portugal,DF
+146,Coba da Costa,7,22,Spain,MF
+147,Logan Costa,19,23,CPV,DF
+148,Samu Costa,11,23,Portugal,MF
+149,Thibaut Courtois,15,32,Belgium,GK
+150,Juan Cruz Armada,12,32,Spain,DF
+151,Juan Cruz,10,24,Spain,FW
+152,Pau Cubarsí,4,17,Spain,DF
+153,Cucho,14,25,Colombia,FW
+154,Arnaut Danjuma,19,27,Netherlands,FW
+155,Arnaut Danjuma,8,27,Netherlands,FW
+156,Sergi Darder,11,30,Spain,MF
+157,Rodrigo De Paul,3,30,Argentina,MF
+158,Mouctar Diakhaby,18,27,Guinea,DF
+159,Assane Diao,14,18,Senegal,FW
+160,Moussa Diarra,1,23,Mali,DF
+161,Brahim Díaz,15,24,Morocco,FW
+162,Daniel Díaz,16,18,Spain,MF
+163,Pedro Díaz,13,26,Spain,MF
+164,Diego,10,24,Spain,FW
+165,Stole Dimitrievski,18,30,MKD,GK
+166,Yan Diomandé,10,17,Ivory Coast,MF
+167,Álvaro djaló,2,24,Spain,FW
+168,Djené,7,32,TOG,DF
+169,Marko Dmitrović,10,32,Serbia,GK
+170,Marc Domenech,11,18,Spain,FW
+171,Carlos Dominguez,5,23,Spain,DF
+172,Israel Domínguez,17,21,Spain,FW
+173,Sergi Dominguez,4,19,Spain,DF
+174,Anastasios Douvikas,5,24,Greece,FW
+175,Domingos Duarte,7,29,Portugal,DF
+176,Duk,10,24,CPV,MF
+177,Pablo Durán,5,23,Spain,FW
+178,Hugo Duro,18,24,Spain,FW
+179,Chidera Ejuke,17,26,Nigeria,FW
+180,Aritz Elustondo,16,30,Spain,DF
+181,Adri Embarba,13,32,Spain,FW
+182,Endrick,15,18,Brazil,FW
+183,Alfonso Espino,13,32,Uruguay,DF
+184,Dario Essugo,9,19,Portugal,MF
+185,Etienne Eto'o,13,21,Cameroon,FW
+186,Karl Etta,19,20,Cameroon,MF
+187,Edu Expósito,6,27,Spain,MF
+188,Abde Ezzalzouli,14,22,Morocco,FW
+189,Ansu Fati,4,21,Spain,FW
+190,Nabil Fekir,14,31,France,MF
+191,Kiko Femenía,19,33,Spain,DF
+192,Aitor Fernández,12,33,Spain,GK
+193,Álvaro Fernández,17,26,Spain,GK
+194,Pelayo Fernandez,13,21,Spain,DF
+195,Roberto Férnandez,6,22,Spain,FW
+196,Valery Fernández,11,24,Spain,MF
+197,André Ferreira,20,28,Portugal,GK
+198,Mateo Flores,14,20,Spain,MF
+199,Pablo Fornals,14,28,Spain,MF
+200,Héctor Fort,4,17,Spain,DF
+201,Dimitri Foulquier,18,31,France,DF
+202,Juan Foyth,19,26,Argentina,DF
+203,Fran,15,19,Spain,GK
+204,Alejandro Francés,8,21,Spain,DF
+205,Enric Franquesa,10,27,Spain,DF
+206,Jorge de Frutos,13,27,Spain,FW
+207,Darío Fuentes,17,21,Spain,DF
+208,Manuel Fuster,9,26,Spain,FW
+209,Javi Galán,3,29,Spain,DF
+210,Iñigo Ruiz de Galarreta,2,30,Spain,MF
+211,Conor Gallagher,3,24,England,MF
+212,Facundo Garcés,1,24,MAS,DF
+213,Álvaro García,13,31,Spain,FW
+214,Eric García,4,23,Spain,DF
+215,Fran Garcia,15,24,Spain,DF
+216,Gonzalo García,15,20,Spain,FW
+217,Joan García,6,23,Spain,GK
+218,Pablo Garcia,14,17,Spain,FW
+219,Rubén García,12,31,Spain,FW
+220,Unai García,12,32,Spain,DF
+221,Yarek Gasiorowski,18,19,Spain,DF
+222,Gavi,4,19,Spain,MF
+223,Paulo Gazzaniga,8,32,Argentina,GK
+224,Bryan Gil,8,23,Spain,FW
+225,Dani Gómez,18,26,Spain,FW
+226,Moi Gómez,12,30,Spain,MF
+227,Sergi Gómez,6,32,Spain,DF
+228,Sergio Gómez,16,23,Spain,MF
+229,Unai Gómez,2,21,Spain,MF
+230,Fabio González,9,27,Spain,MF
+231,Peter González,7,22,Dominican Republic,MF
+232,Urko González,6,23,Spain,MF
+233,Urko González,16,23,Spain,MF
+234,Andoni Gorosabel,2,27,Spain,DF
+235,José Gragera,6,23,Spain,MF
+236,Dominik Greif,11,27,Slovakia,GK
+237,Antoine Griezmann,3,33,France,FW
+238,Florian Grillitsch,20,28,Austria,MF
+239,Vicente Guaita,5,37,Spain,GK
+240,Sergi Guardiola,13,33,Spain,FW
+241,Nemanja Gudelj,17,32,Serbia,MF
+242,Javier Guerra,18,21,Spain,MF
+243,Ander Guevara,1,27,Spain,MF
+244,Pape Gueye,19,25,Senegal,MF
+245,Hugo Guillamón,18,24,Spain,MF
+246,Carlos Guirao,14,21,Spain,MF
+247,Arda Güler,15,19,Turkey,MF
+248,Gerard Gumbau,13,29,Spain,MF
+249,Jon Guridi,1,29,Spain,MF
+250,Gorka Guruzeta,2,27,Spain,FW
+251,Miguel Gutiérrez,8,23,Spain,DF
+252,Munir El Haddadi,10,28,Morocco,FW
+253,Sébastien Haller,10,30,Ivory Coast,FW
+254,Henrique,20,30,Brazil,DF
+255,Javi Hernández,10,26,Spain,DF
+256,Aridane Hernández,13,35,Spain,DF
+257,Jorge Herrando,12,23,Spain,DF
+258,Ander Herrera,2,34,Spain,MF
+259,Sergio Herrera,12,31,Spain,GK
+260,Yangel Herrera,8,26,Venezuela,MF
+261,Juan Herzog,9,21,Spain,DF
+262,Omar El Hilali,6,20,Morocco,DF
+263,Roger Hinojo,6,19,Spain,DF
+264,Dinko Horkaš,9,25,Croatia,GK
+265,Pablo Ibáñez,12,25,Spain,MF
+266,Stanis Idumbo,17,19,Belgium,FW
+267,Iglesias,7,26,Spain,DF
+268,Borja Iglesias,5,31,Spain,FW
+269,Kelechi Iheanacho,17,27,Nigeria,FW
+270,Isco,14,32,Spain,MF
+271,Diego Iturralde,17,21,Spain,FW
+272,Ivan Jaime Pajuelo,18,23,Spain,MF
+273,Karl Jakob Hein,20,22,EST,GK
+274,Adnan Januzaj,9,29,Belgium,MF
+275,Mikel Jauregizar,2,20,Spain,MF
+276,John Joe,7,20,IRL,MF
+277,Jofre,6,23,Spain,MF
+278,Frenkie de Jong,4,27,Netherlands,MF
+279,Joan Jordán,1,30,Spain,MF
+280,Juanmi,7,31,Spain,FW
+281,Juanmi,14,31,Spain,FW
+282,Juanpe,8,33,Spain,DF
+283,Luiz Lúcio Reis Júnior,19,23,Brazil,GK
+284,Vinicius Júnior,15,24,Brazil,FW
+285,Stanko Jurić,20,27,Croatia,MF
+286,Willy Kambwala,19,19,France,DF
+287,Abdoulaye Keita,7,21,Spain,FW
+288,Kenedy,20,28,Brazil,MF
+289,Kiké,1,34,Spain,FW
+290,Koke,3,32,Spain,MF
+291,Jules Koundé,4,25,France,DF
+292,Alex Král,6,26,CZE,MF
+293,Ladislav Krejčí,8,25,CZE,DF
+294,Takefusa Kubo,16,23,Japan,MF
+295,Marash Kumbulla,6,24,Albania,DF
+296,Luca de la Torre,5,26,United States,MF
+297,Yoel Lago,5,20,Spain,DF
+298,Cyle Larin,11,29,Canada,FW
+299,Juanmi Latasa,20,23,Spain,FW
+300,Toni Lato,11,26,Spain,DF
+301,Robin Le Normand,3,27,Spain,DF
+302,Florian Lejeune,13,33,France,DF
+303,Iñigo Lekue,2,31,Spain,DF
+304,Thomas Lemar,3,28,France,MF
+305,Clément Lenglet,3,29,France,DF
+306,Robert Lewandowski,4,35,Poland,FW
+307,Samuel Lino,3,24,Brazil,MF
+308,Javier Llabrés,11,21,Spain,FW
+309,Diego Llorente,14,30,Spain,DF
+310,Marcos Llorente,3,29,Spain,DF
+311,Giovani Lo Celso,14,28,Argentina,MF
+312,Enzo Loiodice,9,23,France,MF
+313,David López,11,21,Spain,DF
+314,David López,8,34,Spain,DF
+315,Diego López,18,22,Spain,MF
+316,Fer López,5,21,Spain,FW
+317,Fermin López,4,21,Spain,MF
+318,Javi López,16,22,Spain,DF
+319,Pau López,8,29,Spain,GK
+320,Roberto López,10,24,Spain,MF
+321,Unai López,13,28,Spain,MF
+322,Iker Losada,5,22,Spain,FW
+323,Iker Losada,14,22,Spain,FW
+324,Pol Lozano,6,24,Spain,MF
+325,José Luis Gayà,18,29,Spain,DF
+326,Dodi Lukebakio,17,26,Belgium,FW
+327,Daniel Luna,11,21,Colombia,MF
+328,Andriy Lunin,15,25,Ukraine,GK
+329,Darwin Machís,20,31,Venezuela,MF
+330,Pablo Maffeo,11,27,Spain,DF
+331,Jon Magunazelaia,16,23,Spain,MF
+332,Giorgi Mamardashvili,18,23,Georgia,GK
+333,Reinildo Mandava,3,30,Mozambique,DF
+334,Javier Manquillo,5,30,Spain,DF
+335,Marcão,17,28,Brazil,DF
+336,Óscar de Marcos,2,35,Spain,DF
+337,Alberto Marí,18,23,Spain,FW
+338,José María Giménez,3,29,Uruguay,DF
+339,Arkaitz Mariezkurrena,16,19,Spain,FW
+340,Pablo Marín,16,21,Spain,MF
+341,Mika Mármol,9,23,Spain,DF
+342,Mario Maroto,20,20,Spain,MF
+343,Unai Marrero,16,22,Spain,GK
+344,Carlos Martín,1,22,Spain,FW
+345,Diego Martín,9,20,Spain,FW
+346,Gerard Martín,4,22,Spain,DF
+347,Iván Martín,8,25,Spain,MF
+348,Jon Martin,16,18,Spain,DF
+349,Mario Martín,20,20,Spain,MF
+350,Arnau Martinez,8,21,Spain,DF
+351,Iñigo Martínez,4,33,Spain,DF
+352,Javi Martínez,12,24,Spain,MF
+353,Ramón Martínez,17,21,Spain,DF
+354,Toni Martínez,1,27,Spain,FW
+355,Javi Martón,2,25,Spain,FW
+356,Marvin,9,24,Spain,DF
+357,Omar Mascarell,11,31,Equatorial Guinea,MF
+358,Jaime Mata,9,35,Spain,FW
+359,Borja Mayoral,7,27,Spain,FW
+360,Kylian Mbappé,15,25,France,FW
+361,Oliver McBurnie,9,28,Scotland,FW
+362,Scott McKenna,9,27,Scotland,DF
+363,Mateo Mejía,17,21,Spain,FW
+364,Arthur Melo,8,27,Brazil,MF
+365,Brais Méndez,16,27,Spain,MF
+366,Ferland Mendy,15,29,France,DF
+367,Nobel Mendy,14,19,France,DF
+368,Víctor Meseguer,20,25,Spain,MF
+369,Miguel,10,24,Spain,FW
+370,Éder Militão,15,26,Brazil,DF
+371,Luis Milla,7,29,Spain,MF
+372,Pere Milla,6,31,Spain,MF
+373,Óscar Mingueza,5,25,Spain,MF
+374,Kim Minsu,8,18,South Korea,MF
+375,Bojan Miovski,8,25,MKD,FW
+376,Rafa Mir,18,27,Spain,FW
+377,Luka Modrić,15,38,Croatia,MF
+378,Johan Mojica,11,31,Colombia,DF
+379,Alberto Moleiro,9,20,Spain,FW
+380,Nahuel Molina,3,26,Argentina,DF
+381,Jon Moncayola,12,26,Spain,MF
+382,Gonzalo Montiel,17,27,Argentina,DF
+383,Gerard Moreno,19,32,Spain,FW
+384,Xavier Moreno,20,19,Spain,FW
+385,Mateu Morey,11,24,Spain,DF
+386,Ilaix Moriba,5,21,Guinea,MF
+387,Manu Morlanes,11,25,Spain,MF
+388,Raúl Moro,20,21,Spain,MF
+389,Cristhian Mosquera,18,20,Spain,DF
+390,Santiago Mouriño,1,22,Uruguay,DF
+391,Abdul Mumin,13,26,Ghana,DF
+392,Aihen Muñoz,16,26,Spain,DF
+393,Álex Muñoz,9,30,Spain,DF
+394,Iker Muñoz,12,21,Spain,MF
+395,Javier Muñoz,9,29,Spain,MF
+396,Víctor Muñoz,15,21,Spain,FW
+397,Vedat Muriqi,11,30,Kosovo,FW
+398,Juan Musso,3,30,Argentina,GK
+399,Matija Nastasić,10,31,Serbia,DF
+400,Natan,14,23,Brazil,DF
+401,Pau Navarro,19,19,Spain,DF
+402,Roberto Navarro,11,22,Spain,MF
+403,Jesús Navas,17,38,Spain,FW
+404,Yvan Neyou,10,27,Cameroon,MF
+405,Tanguy Nianzou,17,22,France,DF
+406,Saúl Ñíguez,17,29,Spain,MF
+407,Tamás Nikitscher,20,24,HUN,MF
+408,Adrian Niño,3,20,Spain,FW
+409,Hugo Novoa,1,21,Spain,DF
+410,Randy Nteka,13,26,ANG,FW
+411,Unai Núñez,2,27,Spain,DF
+412,Ørjan Nyland,17,33,Norway,GK
+413,Allan Nyom,7,36,Cameroon,DF
+414,Jan Oblak,3,31,SVN,GK
+415,Lucas Ocampos,17,30,Argentina,FW
+416,Álvaro Odriozola,16,28,Spain,DF
+417,Thiago Ojeda,19,21,Argentina,MF
+418,Aingeru Olabarrieta,2,18,Spain,FW
+419,Olasagasti,16,23,Spain,MF
+420,Brian Oliván,6,30,Spain,DF
+421,Lucas Oliveira Rosa,20,24,Brazil,DF
+422,Dani Olmo,4,26,Spain,MF
+423,Aimar Oroz,12,22,Spain,MF
+424,Ángel Ortíz,14,20,Spain,DF
+425,Gabriel Osei Misehouy,8,19,Netherlands,FW
+426,David Otorbi,18,16,Spain,MF
+427,Jesús Owono,1,23,Equatorial Guinea,GK
+428,Mikel Oyarzabal,16,27,Spain,FW
+429,Cenk Özkacar,20,23,Turkey,DF
+430,Jon Pacheco,16,23,Spain,DF
+431,Alex Padilla,2,20,Spain,GK
+432,Isaac Palazón Camacho,13,29,Spain,MF
+433,Aitor Paredes,2,24,Spain,DF
+434,Daniel Parejo,19,35,Spain,MF
+435,Iago Parente,20,18,Spain,DF
+436,Álvaro Pascual,17,22,Spain,FW
+437,Alfonso Pedraza,19,28,Spain,DF
+438,Pedri,4,21,Spain,MF
+439,Adrià Pedrosa,17,26,Spain,DF
+440,Pejiño,9,28,Spain,FW
+441,Andy Pelmard,9,24,France,DF
+442,Iñaki Peña,4,25,Spain,GK
+443,Rubén Peña,12,33,Spain,FW
+444,Nicolas Pépé,19,29,Ivory Coast,FW
+445,Peque,17,21,Spain,MF
+446,Ayoze Pérez,19,31,Spain,FW
+447,Carles Pérez,7,26,Spain,MF
+448,Francisco Perez,18,21,Spain,FW
+449,Kike Pérez,20,27,Spain,MF
+450,Luis Pérez,20,29,Spain,DF
+451,Romain Perraud,14,26,France,DF
+452,Valentín Pezzolesi,9,17,Spain,DF
+453,Pica,1,22,Spain,DF
+454,Yeremi Pino,19,21,Spain,MF
+455,Portu,8,32,Spain,FW
+456,Beñat Prados,2,23,Spain,MF
+457,Abdón Prats,11,31,Spain,FW
+458,Javi Puado,6,26,Spain,FW
+459,Dani Raba,10,28,Spain,FW
+460,Arnau Rafús,20,21,Spain,GK
+461,Antonio Raillo,11,32,Spain,DF
+462,Benito Ramírez,9,29,Spain,DF
+463,Sandro Ramírez,9,29,Spain,FW
+464,Jacobo Ramón,15,19,Spain,DF
+465,Raphinha,4,27,Brazil,FW
+466,Andrei Ratiu,13,26,Romania,DF
+467,Raúl,12,23,Spain,FW
+468,Abderrahman Rebbach,1,25,ALG,FW
+469,Álex Remiro,16,29,Spain,GK
+470,Daniel Requena,19,20,Spain,MF
+471,Diego Rico,7,31,Spain,DF
+472,Luis Rioja,1,30,Spain,FW
+473,Luis Rioja,18,30,Spain,FW
+474,Rodrigo Riquelme,3,24,Spain,MF
+475,Alberto Risco,7,18,Spain,MF
+476,Mihailo Ristić,5,28,Serbia,DF
+477,Gorka Rivera Alonso,7,19,Spain,DF
+478,Marc Roca,14,27,Spain,MF
+479,Rodri,14,24,Spain,FW
+480,Adrian Rodriguez,1,23,Spain,GK
+481,Álvaro Rodríguez,7,20,Uruguay,FW
+482,Óscar Rodríguez Arnaiz,10,26,Spain,MF
+483,Arturo Rodríguez,9,17,Spain,FW
+484,Damián Rodríguez,5,21,Spain,MF
+485,Dani Rodríguez,11,36,Spain,MF
+486,Daniel Rodriguez,4,18,Spain,FW
+487,James Rodríguez,13,33,Colombia,MF
+488,Javi Rodríguez,5,21,Spain,DF
+489,Jesus Rodríguez,14,18,Spain,FW
+490,Kirian Rodríguez,9,28,Spain,MF
+491,Ricardo Rodríguez,14,31,Switzerland,DF
+492,Rodrygo,15,23,Brazil,FW
+493,Leo Román,11,24,Spain,GK
+494,Carlos Romero,6,22,Spain,DF
+495,Isaac Romero,17,24,Spain,FW
+496,Luka Romero,1,19,Argentina,FW
+497,Oriol Romeu,8,32,Spain,MF
+498,Vitor Roque,14,19,Brazil,FW
+499,Valentin Rosier,10,27,France,DF
+500,Antonio Rüdiger,15,31,Germany,DF
+501,Aitor Ruibal,14,28,Spain,DF
+502,Abel Ruiz,8,24,Spain,FW
+503,Ferrán Ruiz,8,21,Spain,MF
+504,Youssouf Sabaly,14,31,Senegal,DF
+505,Umar Sadiq,18,27,Nigeria,FW
+506,Umar Sadiq,16,27,Nigeria,FW
+507,Jorge Sáenz,10,27,Spain,DF
+508,Jan Salas,11,18,Spain,MF
+509,Kike Salas,17,22,Spain,DF
+510,Albert Sambi Lokonga,17,24,Belgium,MF
+511,Chuky san jose,20,20,Spain,MF
+512,Oihan Sancet,2,24,Spain,MF
+513,Antonio Sánchez,11,27,Spain,MF
+514,Iván Sánchez,20,31,Spain,MF
+515,Javi Sánchez,20,27,Spain,DF
+516,Juanlu Sánchez,17,20,Spain,MF
+517,Manu Sánchez,1,23,Spain,DF
+518,Maroan Sannadi,2,23,Morocco,FW
+519,Jesús Santiago,7,20,Spain,MF
+520,Aleksandar Sedlar,1,32,Serbia,DF
+521,Sergi,10,32,Spain,DF
+522,Nicolás Serrano,2,21,Spain,FW
+523,Fábio Silva,9,22,Portugal,FW
+524,Rui Silva,14,30,Portugal,GK
+525,Giuliano Simeone,3,21,Argentina,MF
+526,Unai Simón,2,27,Spain,GK
+527,Daley Sinkgraven,9,29,Netherlands,DF
+528,Jailson Siqueira,5,28,Brazil,DF
+529,Antonio Sivera,1,27,Spain,GK
+530,Justin Smith,6,21,Canada,MF
+531,Alex Sola,7,25,Spain,MF
+532,Arnau Solà,19,21,Spain,MF
+533,Jhon Solis,8,19,Colombia,MF
+534,David Soria,7,31,Spain,GK
+535,Juan Soriano,10,26,Spain,GK
+536,Hugo Sotelo,5,20,Spain,MF
+537,Djibril Sow,17,27,Switzerland,MF
+538,Carl Starfelt,5,29,Sweden,DF
+539,Orri Steinn Óskarsson,16,19,Iceland,FW
+540,Stoichkov,1,30,Spain,MF
+541,Cristhian Stuani,8,37,Uruguay,FW
+542,Álex Suárez,9,31,Spain,DF
+543,Denis Suárez,19,30,Spain,MF
+544,Luka Sučić,16,21,Croatia,MF
+545,Suso,17,30,Spain,FW
+546,Williot Swedberg,5,20,Sweden,FW
+547,Mamadou Sylla,20,30,Senegal,FW
+548,Wojciech Szczęsny,4,34,Poland,GK
+549,Alexander Sørloth,3,28,Norway,FW
+550,Renato Tapia,10,29,PER,MF
+551,César Tárrega,18,22,Spain,DF
+552,Aurélien Tchouaméni,15,24,France,DF
+553,Álvaro Tejero,6,28,Spain,MF
+554,Martín Tejón,18,20,Spain,MF
+555,Nahuel Tenaglia,1,28,Argentina,DF
+556,Marc-André ter Stegen,4,32,Germany,GK
+557,Ramón Terrats,19,23,Spain,MF
+558,Ramón Terrats,7,23,Spain,MF
+559,Raúl de Tomás,13,29,Spain,DF
+560,Pablo Torre,4,21,Spain,MF
+561,David Torres,20,21,Spain,DF
+562,Ferrán Torres,4,24,Spain,FW
+563,Lucas Torró,12,30,Spain,MF
+564,Hamari Traoré,16,32,Mali,DF
+565,Óscar Trejo,13,36,Argentina,MF
+566,Viktor Tsyhankov,8,26,Ukraine,FW
+567,Beñat Turrientes,16,22,Spain,MF
+568,Christantus Uche,7,21,Nigeria,FW
+569,Naci Ünüvar,6,21,Netherlands,MF
+570,Óscar Valentín,13,29,Spain,MF
+571,Germán Valera,18,22,Spain,MF
+572,Martin Valjent,11,28,Slovakia,DF
+573,Jesús Vallejo,15,27,Spain,DF
+574,Federico Valverde,15,26,Uruguay,MF
+575,Siebe Van Der Heyden,11,26,Belgium,DF
+576,Ruben Vargas,17,25,Switzerland,FW
+577,José Luis García Vayá,18,25,Spain,MF
+578,Jesus Vazquez,18,21,Spain,DF
+579,Lucas Vázquez,15,33,Spain,DF
+580,Alejo Véliz,6,20,Argentina,FW
+581,Mikel Vesga,2,31,Spain,MF
+582,Carlos Vicente,1,25,Spain,FW
+583,Pau Victor,4,22,Spain,FW
+584,Nacho Vidal,12,29,Spain,DF
+585,Fran Vieites,14,25,Spain,GK
+586,Sergio Viera,9,19,Spain,MF
+587,Asier Villalibre,1,26,Spain,FW
+588,Iván Villar,5,27,Spain,GK
+589,Viti,9,26,Spain,DF
+590,Daniel Vivian,2,25,Spain,DF
+591,Krapyvtsov Vladyslav,8,19,Ukraine,GK
+592,Iñaki Williams,2,30,Ghana,FW
+593,Nico Williams,2,22,Spain,FW
+594,Axel Witsel,3,35,Belgium,DF
+595,Lamine Yamal,4,17,Spain,FW
+596,Daniel Yáñez,15,17,Spain,FW
+597,Bertuğ Yıldırım,7,22,Turkey,FW
+598,Arsen Zakharyan,16,21,Russia,MF
+599,Bryan Zaragoza,12,23,Spain,FW
+600,Igor Zubeldia,16,27,Spain,DF
+601,Martín Zubimendi,16,25,Spain,MF
